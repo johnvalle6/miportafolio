@@ -5,7 +5,6 @@
   "main": "index.js",
   "homepage": "https://johnvalle6.github.io/miportafolio",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
   "author": "",
